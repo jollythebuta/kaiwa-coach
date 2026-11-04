@@ -1,6 +1,6 @@
 # kaiwa-coach 🎤
 
-Japanese speaking-practice app — built by Vincent & Jolly, demoed with Mikuri.
+Japanese speaking-practice app — built by Vincent & Jolly.
 
 Speak → Whisper transcribes → kind corrections with explanations. All running
 locally on the MacBook Air.

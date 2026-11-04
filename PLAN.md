@@ -1,7 +1,7 @@
 # kaiwa-coach — Project Plan
 
 ## Goal
-A Japanese speaking-practice web app, built for Vincent's lessons with Mikuri.
+A Japanese speaking-practice web app, built for Vincent's Japanese lessons.
 Flow: speak into the mic → Whisper transcribes → the app shows what it heard →
 an LLM kindly corrects the Japanese and explains why (nicely!).
 
@@ -13,7 +13,7 @@ an LLM kindly corrects the Japanese and explains why (nicely!).
   - GET /health
 - LLM provider is a switch in `.env`: claude / gemini / ollama. No keys in the repo, ever.
 
-## How we work (the part Mikuri will see)
+## How we work
 - One GitHub issue per task below. One branch per issue (`issue-N-short-name`).
 - Every change goes through a pull request: review → green checks → merge.
 - `main` is protected: PR required, no force pushes, no deletions.
